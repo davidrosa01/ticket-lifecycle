@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%"  height="80%" alt="ticket intake" src="https://github.com/davidrosa01/ticket-lifecycle/assets/119774564/b67b91e6-a31c-4914-8175-34cf1cb8810c">
 </p>
 
 <p>
@@ -39,8 +39,9 @@ The ticket creation process in osTicket begins when an end user visits the "Supp
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="ticket communication   assign" src="https://github.com/davidrosa01/ticket-lifecycle/assets/119774564/423c5f6e-ff6f-44cc-a2df-953842021057">
 </p>
+
 <p>
 
 Authorized personnel, such as queue managers or escalation engineers, play a crucial role in osTicket's ticket management. They can change ticket priorities, assign tickets to agents or departments, update SLA plans, provide summary updates, transfer tickets between departments, and communicate with relevant parties. These actions enable them to ensure efficient ticket resolution and effective collaboration throughout the process.
@@ -49,7 +50,8 @@ Authorized personnel, such as queue managers or escalation engineers, play a cru
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="resolution" src="https://github.com/davidrosa01/ticket-lifecycle/assets/119774564/484770ef-3ad7-4f61-94d3-d85375961e0f">
+
 </p>
 <p>
   
